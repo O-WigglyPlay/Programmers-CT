@@ -136,6 +136,7 @@
     <ClCompile Include="덧셈식 출력하기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="문자열 겹쳐쓰기.c" />
     <ClCompile Include="문자열 돌리기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

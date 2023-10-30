@@ -2,6 +2,18 @@
 #include <stdio.h>
 
 int main(void) {
+    //풀이
+    int n;
+    scanf("%d", &n);
+
+    if (n % 2 == 0) {   //변수를 2로 나눴을때 0이 되는지 판별해서 짝수로 인식
+        printf("%d is even", n);
+    }
+    else {
+        printf("%d is odd", n);
+    }
+
+    //내가 몰랐던 풀이법
 
     return 0;
 }
