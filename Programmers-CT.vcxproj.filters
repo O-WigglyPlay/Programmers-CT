@@ -9,80 +9,89 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
     <Filter Include="소스 파일\코딩테스트 입문">
       <UniqueIdentifier>{9b838d3f-fe14-42ea-94ae-9eec59a73646}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\코딩테스트 입문\Day1">
-      <UniqueIdentifier>{342e93e9-99da-4cb3-820e-e25a7a058c4b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\코딩테스트 입문\Day2">
-      <UniqueIdentifier>{c861cda9-1b90-4201-8932-6971b960142a}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\코딩테스트 기초">
       <UniqueIdentifier>{e58c1ab7-a7b4-4433-924d-133fc757400c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\코딩테스트 기초\Day1">
+    <Filter Include="소스 파일\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\코딩테스트 기초\C lang">
+      <UniqueIdentifier>{8980ff0e-fc56-45ae-9088-1445fe1562bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\코딩테스트 기초\C lang\Day1">
       <UniqueIdentifier>{3130e844-c4fd-4604-a66b-f588f96f5c2f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\코딩테스트 기초\Day2">
+    <Filter Include="소스 파일\코딩테스트 기초\C lang\Day2">
       <UniqueIdentifier>{078544a1-5047-4a0b-a940-19ae2b16f865}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\코딩테스트 입문\C lang">
+      <UniqueIdentifier>{8d123108-2e60-4996-89f8-68835d54b0c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\코딩테스트 입문\C lang\Day2">
+      <UniqueIdentifier>{c861cda9-1b90-4201-8932-6971b960142a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\코딩테스트 입문\C lang\Day1">
+      <UniqueIdentifier>{342e93e9-99da-4cb3-820e-e25a7a058c4b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 차.cpp">
-      <Filter>소스 파일\코딩테스트 입문\Day1</Filter>
+      <Filter>소스 파일\코딩테스트 입문\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="두 수의 합.cpp">
-      <Filter>소스 파일\코딩테스트 입문\Day1</Filter>
+      <Filter>소스 파일\코딩테스트 입문\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="두 수의 곱.cpp">
-      <Filter>소스 파일\코딩테스트 입문\Day1</Filter>
+      <Filter>소스 파일\코딩테스트 입문\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="몫 구하기.cpp">
-      <Filter>소스 파일\코딩테스트 입문\Day1</Filter>
+      <Filter>소스 파일\코딩테스트 입문\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="두 수의 나눗셈.cpp">
-      <Filter>소스 파일\코딩테스트 입문\Day2</Filter>
+      <Filter>소스 파일\코딩테스트 입문\C lang\Day2</Filter>
     </ClCompile>
     <ClCompile Include="분수의 덧셈.cpp">
-      <Filter>소스 파일\코딩테스트 입문\Day2</Filter>
+      <Filter>소스 파일\코딩테스트 입문\C lang\Day2</Filter>
     </ClCompile>
     <ClCompile Include="숫자 비교하기.cpp">
-      <Filter>소스 파일\코딩테스트 입문\Day2</Filter>
+      <Filter>소스 파일\코딩테스트 입문\C lang\Day2</Filter>
     </ClCompile>
     <ClCompile Include="문자열 출력하기.cpp">
-      <Filter>소스 파일\코딩테스트 기초\Day1</Filter>
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="a와 b 출력하기.cpp">
-      <Filter>소스 파일\코딩테스트 기초\Day1</Filter>
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="문자열 반복해서 출력하기.cpp">
-      <Filter>소스 파일\코딩테스트 기초\Day1</Filter>
-    </ClCompile>
-    <ClCompile Include="입문 기본 세팅 참고용.cpp">
-      <Filter>소스 파일\코딩테스트 입문</Filter>
-    </ClCompile>
-    <ClCompile Include="기초 기본 세팅 참고용.cpp">
-      <Filter>소스 파일\코딩테스트 기초</Filter>
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="대소문자 바꿔서 출력하기.cpp">
-      <Filter>소스 파일\코딩테스트 기초\Day1</Filter>
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="특수문자 출력하기.cpp">
-      <Filter>소스 파일\코딩테스트 기초\Day1</Filter>
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day1</Filter>
     </ClCompile>
     <ClCompile Include="덧셈식 출력하기.cpp">
-      <Filter>소스 파일\코딩테스트 기초\Day2</Filter>
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day2</Filter>
     </ClCompile>
     <ClCompile Include="문자열 붙여서 출력하기.cpp">
-      <Filter>소스 파일\코딩테스트 기초\Day2</Filter>
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day2</Filter>
     </ClCompile>
     <ClCompile Include="문자열 돌리기.cpp">
-      <Filter>소스 파일\코딩테스트 기초\Day2</Filter>
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="홀짝 구분하기.cpp">
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="기초 기본 세팅 참고용.cpp">
+      <Filter>소스 파일\코딩테스트 기초\C lang</Filter>
+    </ClCompile>
+    <ClCompile Include="입문 기본 세팅 참고용.cpp">
+      <Filter>소스 파일\코딩테스트 입문\C lang</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
