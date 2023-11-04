@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\코딩테스트 입문\C lang\Day1">
       <UniqueIdentifier>{342e93e9-99da-4cb3-820e-e25a7a058c4b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\코딩테스트 기초\C lang\Day3">
+      <UniqueIdentifier>{00fa56c6-f8af-4031-a4ea-b1db8658e618}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 차.c">
@@ -93,8 +96,11 @@
     <ClCompile Include="입문 기본 세팅 참고용.c">
       <Filter>소스 파일\코딩테스트 입문\C lang</Filter>
     </ClCompile>
-    <ClCompile Include="문자열 겹쳐쓰기.c">
+    <ClCompile Include="%28다시%29문자열 겹쳐쓰기.c">
       <Filter>소스 파일\코딩테스트 기초\C lang\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 섞기.c">
+      <Filter>소스 파일\코딩테스트 기초\C lang\Day3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
