@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc80ca69-a9ff-4bc3-8bb2-22f0918cc30c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/(다시)문자열 겹쳐쓰기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day2/(다시)문자열 겹쳐쓰기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Programmers-CT/FileContentIndex/7909cc43-f0f9-4375-856d-6ffaf0625220.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Programmers-CT/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Programmers-CT/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Programmers-CT/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Programmers-CT/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a와 b 출력하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day1/a와 b 출력하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/기초 기본 세팅 참고용.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/기초 기본 세팅 참고용.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/대소문자 바꿔서 출력하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day1/대소문자 바꿔서 출력하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/덧셈식 출력하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day2/덧셈식 출력하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두 수의 곱.c" beforeDir="false" afterPath="$PROJECT_DIR$/입문/Day1/두 수의 곱.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두 수의 나눗셈.c" beforeDir="false" afterPath="$PROJECT_DIR$/입문/Day2/두 수의 나눗셈.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두 수의 차.c" beforeDir="false" afterPath="$PROJECT_DIR$/입문/Day1/두 수의 차.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두 수의 합.c" beforeDir="false" afterPath="$PROJECT_DIR$/입문/Day1/두 수의 합.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/몫 구하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/입문/Day1/몫 구하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문자열 돌리기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day2/문자열 돌리기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문자열 반복해서 출력하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day1/문자열 반복해서 출력하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문자열 붙여서 출력하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day2/문자열 붙여서 출력하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문자열 섞기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day3/문자열 섞기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문자열 출력하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day1/문자열 출력하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/분수의 덧셈.c" beforeDir="false" afterPath="$PROJECT_DIR$/입문/Day2/분수의 덧셈.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/숫자 비교하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/입문/Day2/숫자 비교하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입문 기본 세팅 참고용.c" beforeDir="false" afterPath="$PROJECT_DIR$/입문/입문 기본 세팅 참고용.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/특수문자 출력하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day1/특수문자 출력하기.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/홀짝 구분하기.c" beforeDir="false" afterPath="$PROJECT_DIR$/기초/Day2/홀짝 구분하기.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2XpoVATWDb4T3KRyX3Y5tYUgSaS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "ProJect",
+    "last_opened_file_path": "C:/Users/oh857/Documents/GitHub/Programmers-CT/기초",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oh857\Documents\GitHub\Programmers-CT\기초" />
+      <recent name="C:\Users\oh857\Documents\GitHub\Programmers-CT" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oh857\Documents\GitHub\Programmers-CT\입문\Day2" />
+      <recent name="C:\Users\oh857\Documents\GitHub\Programmers-CT\입문" />
+      <recent name="C:\Users\oh857\Documents\GitHub\Programmers-CT\기초" />
+      <recent name="C:\Users\oh857\Documents\GitHub\Programmers-CT\입문\Day1" />
+      <recent name="C:\Users\oh857\Documents\GitHub\Programmers-CT\기초\Day3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc80ca69-a9ff-4bc3-8bb2-22f0918cc30c" name="Changes" comment="" />
+      <created>1699335402741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699335402741</updated>
+      <workItem from="1699335403762" duration="472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
