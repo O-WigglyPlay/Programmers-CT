@@ -40,6 +40,12 @@
     <Filter Include="소스 파일\코딩테스트 기초\C lang\Day3">
       <UniqueIdentifier>{00fa56c6-f8af-4031-a4ea-b1db8658e618}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BaekJoon">
+      <UniqueIdentifier>{083b3797-2398-41d3-9a46-38071999ab9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BaekJoon\Level 1">
+      <UniqueIdentifier>{45f22294-f090-434b-8fb9-b0f83555296f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="코딩테스트 기초\C lang\Day 1\a와 b 출력하기.c">
@@ -99,11 +105,47 @@
     <ClCompile Include="코딩테스트 입문\C lang\Day 2\숫자 비교하기.c">
       <Filter>소스 파일\코딩테스트 입문\C lang\Day2</Filter>
     </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\Hello World!.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
     <ClCompile Include="코딩테스트 입문\C lang\입문 기본 세팅 참고용.c">
       <Filter>소스 파일\코딩테스트 입문\C lang</Filter>
     </ClCompile>
-    <ClCompile Include="코딩테스트 입문\입문 기본 세팅 참고용.c">
-      <Filter>소스 파일\코딩테스트 입문</Filter>
+    <ClCompile Include="BAEKJOON\Level 1\1000.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\1001.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\10998.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\1008.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\10869.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\10926.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\18108.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\10430.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\2588.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\11382.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\10171.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 1\10172.c">
+      <Filter>소스 파일\BaekJoon\Level 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
