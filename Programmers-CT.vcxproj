@@ -127,64 +127,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="a와 b 출력하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="대소문자 바꿔서 출력하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="덧셈식 출력하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="%28다시%29문자열 겹쳐쓰기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="문자열 돌리기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="문자열 붙여서 출력하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="문자열 섞기.c" />
-    <ClCompile Include="입문 기본 세팅 참고용.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="기초 기본 세팅 참고용.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="두 수의 곱.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="두 수의 나눗셈.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="두 수의 차.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="두 수의 합.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="몫 구하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="문자열 반복해서 출력하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="문자열 출력하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="분수의 덧셈.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="숫자 비교하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="특수문자 출력하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="홀짝 구분하기.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="코딩테스트 기초\C lang\Day 1\a와 b 출력하기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 1\대소문자 바꿔서 출력하기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 1\문자열 반복해서 출력하기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 1\문자열 출력하기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 1\특수문자 출력하기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 2\(다시)문자열 겹쳐쓰기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 2\덧셈식 출력하기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 2\문자열 돌리기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 2\문자열 붙여서 출력하기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 2\홀짝 구분하기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\Day 3\문자열 섞기.c" />
+    <ClCompile Include="코딩테스트 기초\C lang\기초 기본 세팅 참고용.c" />
+    <ClCompile Include="코딩테스트 입문\C lang\Day 1\두 수의 곱.c" />
+    <ClCompile Include="코딩테스트 입문\C lang\Day 1\두 수의 차.c" />
+    <ClCompile Include="코딩테스트 입문\C lang\Day 1\두 수의 합.c" />
+    <ClCompile Include="코딩테스트 입문\C lang\Day 1\몫 구하기.c" />
+    <ClCompile Include="코딩테스트 입문\C lang\Day 2\두 수의 나눗셈.c" />
+    <ClCompile Include="코딩테스트 입문\C lang\Day 2\분수의 덧셈.c" />
+    <ClCompile Include="코딩테스트 입문\C lang\Day 2\숫자 비교하기.c" />
+    <ClCompile Include="코딩테스트 입문\C lang\입문 기본 세팅 참고용.c" />
+    <ClCompile Include="코딩테스트 입문\입문 기본 세팅 참고용.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

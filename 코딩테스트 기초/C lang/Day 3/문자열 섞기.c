@@ -1,8 +1,9 @@
-#define _CRT_SECURE_NO_WARNINGS //scanf등 (unsafe)문법에 대한 대응방식
+efine _CRT_SECURE_NO_WARNINGS //scanf등 (unsafe)문법에 대한 대응방식
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
 #include <string.h>
+#define LEN_INPUT 11
 
 // 파라미터로 주어지는 문자열은 const로 주어집니다. 변경하려면 문자열을 복사해서 사용하세요.
 char* solution(const char* str1, const char* str2) {
