@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\BaekJoon\Level 1">
       <UniqueIdentifier>{45f22294-f090-434b-8fb9-b0f83555296f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BaekJoon\Level 2">
+      <UniqueIdentifier>{1494320b-f4ff-4759-beac-e90c1ed67d48}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="코딩테스트 기초\C lang\Day 1\a와 b 출력하기.c">
@@ -146,6 +149,21 @@
     </ClCompile>
     <ClCompile Include="BAEKJOON\Level 1\10172.c">
       <Filter>소스 파일\BaekJoon\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 2\두 수 비교하기.c">
+      <Filter>소스 파일\BaekJoon\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 2\시험 성적.c">
+      <Filter>소스 파일\BaekJoon\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON\Level 2\윤년.c">
+      <Filter>소스 파일\BaekJoon\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="사분면 고르기.c">
+      <Filter>소스 파일\BaekJoon\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="알람 시계.c">
+      <Filter>소스 파일\BaekJoon\Level 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
